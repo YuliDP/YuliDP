@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👩‍💻 Julia Díaz Peña
 
-<!--
-**YuliDP/YuliDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity | Network Security | Vulnerability Assessment
 
-Here are some ideas to get you started:
+Cybersecurity professional focused on **network security, vulnerability
+assessment, defensive security, and infrastructure protection**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience working with **Windows and Linux environments**,
+network security, virtualization, vulnerability assessment, and
+security monitoring.
+
+---
+
+## 🔐 Cybersecurity Skills
+
+- 🛡️ Network Security & Defensive Security
+- 🔍 Vulnerability Assessment
+- 🚨 IDS / IPS
+- 🌐 Web Security
+- 📡 Network Traffic Analysis
+- 🔥 Firewall Configuration
+- 🖥️ Virtualized Security Environments
+- 🔐 Cryptography Fundamentals
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Operating Systems**  
+`Kali Linux` `Ubuntu Server` `Windows` `Windows Server`
+
+**Cybersecurity**  
+`Wireshark` `Nmap` `OWASP ZAP` `Nikto` `WPScan` `Suricata`
+
+**Network & Infrastructure**  
+`pfSense` `Proxmox VE` `VMware` `TCP/IP` `VLANs` `Firewalls`
+
+**Cryptography**  
+`OpenSSL` `RSA` `AES` `SHA-256`
+
+---
+
+## 🧪 Cybersecurity Labs
+
+🔹 Vulnerability Assessment & Web Security  
+🔹 Network Security & Traffic Analysis  
+🔹 IDS/IPS Implementation  
+🔹 Firewall & Network Segmentation  
+🔹 OWASP Juice Shop Security Lab  
+🔹 Cryptography & Digital Signatures  
+
+---
+
+## 🌱 Currently Learning
+
+`Penetration Testing` • `Web Security` • `Security Automation` •
+`Network Defense` • `Cybersecurity Monitoring`
+
+---
+
+## 🎯 Professional Mission
+
+My goal is to continue developing my cybersecurity expertise through
+hands-on projects, continuous learning, and the implementation of
+secure and resilient technological environments.
